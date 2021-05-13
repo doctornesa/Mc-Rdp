@@ -1,4 +1,4 @@
-#Credit: https://github.com/Area69Lab
+#Credit: samay oswal
 #setup.sh VNC_USER_PASSWORD VNC_PASSWORD NGROK_AUTH_TOKEN
 
 #disable spotlight indexing
